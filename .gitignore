@@ -1,0 +1,23 @@
+    # Node.js specific
+    node_modules/
+    .env
+    config.env
+    npm-debug.log*
+    yarn-debug.log*
+    yarn-error.log*
+    .DS_Store
+    coverage/
+    build/
+    dist/
+
+    # Editor specific
+    .vscode/
+    *.sublime-project
+    *.sublime-workspace
+
+    # Logs
+    logs/
+    *.log
+
+    # OS generated files
+    .idea/
